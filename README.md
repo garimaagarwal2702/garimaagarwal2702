@@ -27,3 +27,9 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-green?style=for-the-badge)
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-red?style=for-the-badge)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garimaagarwal2702&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garimaagarwal2702&layout=compact&theme=radical)
