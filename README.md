@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/garimaagarwal2702
-* LinkedIn: Add your LinkedIn profile link here
+* LinkedIn: www.linkedin.com/in/garima-agarwal-607a94354
 
 ## 💡 Quote
 
