@@ -1,35 +1,107 @@
 # Hi 👋, I'm Garima Agarwal
 
-🚀 Aspiring Data Scientist | Python Developer | Machine Learning Enthusiast
+### 🚀 Aspiring Data Scientist | Python Developer | Machine Learning Enthusiast
 
-🔭 Currently learning Data Science & Machine Learning
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🌱 Working on Python, NumPy, Pandas, Matplotlib, Seaborn
+🌱 Currently learning **Data Science, Machine Learning & Deep Learning**
 
-📫 Reach me at: your_email@example.com
+🐍 Strong foundation in **Python Programming**
+
+📊 Skilled in **NumPy, Pandas, Matplotlib, Seaborn**
+
+🤖 Interested in **Machine Learning, AI & Data Analytics**
+
+💻 Building projects to strengthen problem-solving skills
+
+📚 Always learning new technologies and improving my coding skills
+
+---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/garima-agarwal-607a94354)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/garimaagarwal2702)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK)
 
-## 🛠 Tech Stack
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
 
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+---
 
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
+## 🛠️ Tech Stack
 
-![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-![Seaborn](https://img.shields.io/badge/Seaborn-green?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-red?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
-## 📊 GitHub Stats
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garimaagarwal2702&show_icons=true&theme=radical)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garimaagarwal2702&layout=compact&theme=radical)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-00C853?style=for-the-badge)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+## 📂 Featured Projects
+
+### 🏧 ATM System
+A Python-based ATM simulation project implementing:
+- Balance Inquiry
+- Deposit Money
+- Withdraw Money
+- PIN Validation
+
+### ⚖️ BMI Calculator
+A Python application that:
+- Calculates Body Mass Index
+- Classifies Health Status
+- Provides BMI Category
+
+### 📊 Data Analysis Projects
+Using:
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+For data cleaning, visualization, and insights generation.
+
+---
+
+## 📈 GitHub Stats
+
+![Garima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+
+---
+
+## 🎯 Current Goals
+
+✅ Master Python Programming
+
+✅ Build End-to-End Data Science Projects
+
+✅ Learn Machine Learning & Deep Learning
+
+✅ Contribute to Open Source
+
+✅ Become a Professional Data Scientist
+
+---
+
+### ✨ "Learning something new every day and turning data into insights."
