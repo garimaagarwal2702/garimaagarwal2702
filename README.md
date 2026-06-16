@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Garima%20Agarwal&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Welcome%20to%20my%20profile&fontSize=40&fontColor=ffffff" />
 
 # Hi 👋, I'm Garima Agarwal
 
