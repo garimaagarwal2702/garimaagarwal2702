@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Garima%20Agarwal&fontSize=40&fontColor=ffffff" />
+
 # Hi 👋, I'm Garima Agarwal
 
 ### 🚀 Aspiring Data Scientist | Python Developer | Machine Learning Enthusiast
@@ -103,3 +105,5 @@ For data cleaning, visualization, and insights generation.
 ---
 
 ### ✨ "Learning something new every day and turning data into insights."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>
