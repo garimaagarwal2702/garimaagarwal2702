@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi 👋, I'm Garima Agarwal
+I'm Garima Agarwal
 
 🚀 Aspiring Data Scientist | Python Developer | Machine Learning Enthusiast
 
